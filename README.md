@@ -12,7 +12,7 @@ A data preprocessing and visualization project based on the **NHTSA** (National 
 - Focused analysis on **Tesla vehicle safety ratings include roll over and crash tests**
 - Visualized trends and insights to support safety performance evaluation
 
----
+
 
 ## 💻 atm_project.c
 
@@ -25,7 +25,7 @@ This project simulates a basic ATM system with the following features:
 - Cash deposit and withdrawal
 - Simple file-based account data management
 
----
+
 
 ## 📓 project_notebook_regression
 
@@ -39,6 +39,5 @@ Project from the **Data Analysis with Python** course.
 - Predicted probability for health risk occurrence based on these inputs
 
 ---
-
 Feel free to explore each folder for detailed implementations and documentation.
 
